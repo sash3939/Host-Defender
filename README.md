@@ -10,6 +10,17 @@
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
+### Решение 1
+
+[no encrypt](https://github.com/sash3939/Host-Defender/assets/156709540/24fd69b5-c8ae-460d-aacf-517b72750487)
+
+[encrypting](https://github.com/sash3939/Host-Defender/assets/156709540/0b34fd8e-105e-420b-90c7-1e562b58bdd0)
+
+[su](https://github.com/sash3939/Host-Defender/assets/156709540/d19ababa-3132-4e3f-855c-379f3cbed37f)
+
+[encrypted](https://github.com/sash3939/Host-Defender/assets/156709540/42d283d7-bcc7-49fc-94a9-2d54784cdda6)
+
+
 ### Задание 2
 
 1. Установите поддержку **LUKS**.
